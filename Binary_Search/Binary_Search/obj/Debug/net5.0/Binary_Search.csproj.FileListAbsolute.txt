@@ -1,0 +1,16 @@
+D:\Code_Buoi2\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.exe
+D:\Code_Buoi2\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.deps.json
+D:\Code_Buoi2\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.runtimeconfig.json
+D:\Code_Buoi2\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.runtimeconfig.dev.json
+D:\Code_Buoi2\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.dll
+D:\Code_Buoi2\Binary_Search\Binary_Search\bin\Debug\net5.0\ref\Binary_Search.dll
+D:\Code_Buoi2\Binary_Search\Binary_Search\bin\Debug\net5.0\Binary_Search.pdb
+D:\Code_Buoi2\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.csproj.AssemblyReference.cache
+D:\Code_Buoi2\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Buoi2\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.AssemblyInfoInputs.cache
+D:\Code_Buoi2\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.AssemblyInfo.cs
+D:\Code_Buoi2\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.csproj.CoreCompileInputs.cache
+D:\Code_Buoi2\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.dll
+D:\Code_Buoi2\Binary_Search\Binary_Search\obj\Debug\net5.0\ref\Binary_Search.dll
+D:\Code_Buoi2\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.pdb
+D:\Code_Buoi2\Binary_Search\Binary_Search\obj\Debug\net5.0\Binary_Search.genruntimeconfig.cache

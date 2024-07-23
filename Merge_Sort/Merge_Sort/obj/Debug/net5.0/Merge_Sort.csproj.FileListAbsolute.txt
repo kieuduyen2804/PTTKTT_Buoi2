@@ -1,0 +1,16 @@
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\bin\Debug\net5.0\Merge_Sort.exe
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\bin\Debug\net5.0\Merge_Sort.deps.json
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\bin\Debug\net5.0\Merge_Sort.runtimeconfig.json
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\bin\Debug\net5.0\Merge_Sort.runtimeconfig.dev.json
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\bin\Debug\net5.0\Merge_Sort.dll
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\bin\Debug\net5.0\ref\Merge_Sort.dll
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\bin\Debug\net5.0\Merge_Sort.pdb
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\obj\Debug\net5.0\Merge_Sort.csproj.AssemblyReference.cache
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\obj\Debug\net5.0\Merge_Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\obj\Debug\net5.0\Merge_Sort.AssemblyInfoInputs.cache
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\obj\Debug\net5.0\Merge_Sort.AssemblyInfo.cs
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\obj\Debug\net5.0\Merge_Sort.csproj.CoreCompileInputs.cache
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\obj\Debug\net5.0\Merge_Sort.dll
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\obj\Debug\net5.0\ref\Merge_Sort.dll
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\obj\Debug\net5.0\Merge_Sort.pdb
+D:\Code_Buoi2\Merge_Sort\Merge_Sort\obj\Debug\net5.0\Merge_Sort.genruntimeconfig.cache

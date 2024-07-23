@@ -1,0 +1,16 @@
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\bin\Debug\net5.0\BigNumberMulti.exe
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\bin\Debug\net5.0\BigNumberMulti.deps.json
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\bin\Debug\net5.0\BigNumberMulti.runtimeconfig.json
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\bin\Debug\net5.0\BigNumberMulti.runtimeconfig.dev.json
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\bin\Debug\net5.0\BigNumberMulti.dll
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\bin\Debug\net5.0\ref\BigNumberMulti.dll
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\bin\Debug\net5.0\BigNumberMulti.pdb
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\obj\Debug\net5.0\BigNumberMulti.csproj.AssemblyReference.cache
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\obj\Debug\net5.0\BigNumberMulti.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\obj\Debug\net5.0\BigNumberMulti.AssemblyInfoInputs.cache
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\obj\Debug\net5.0\BigNumberMulti.AssemblyInfo.cs
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\obj\Debug\net5.0\BigNumberMulti.csproj.CoreCompileInputs.cache
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\obj\Debug\net5.0\BigNumberMulti.dll
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\obj\Debug\net5.0\ref\BigNumberMulti.dll
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\obj\Debug\net5.0\BigNumberMulti.pdb
+D:\Code_Buoi2\BigNumberMulti\BigNumberMulti\obj\Debug\net5.0\BigNumberMulti.genruntimeconfig.cache
